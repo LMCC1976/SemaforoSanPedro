@@ -8,7 +8,7 @@ Los colores son: 1 - Verde (Prevencion) / 2 - Amarillo (Precaución) / 3 - Naran
 
 # Zonas del semáforo
 
-Las zonas se pueden visualizar en https://edovtp.shinyapps.io/semaforo-San-Pedro/ . Estas corresponden a:
+Las zonas se pueden visualizar en https://edovtp.shinyapps.io/semaforo-San-Pedro/. Estas corresponden a:
 
 Zona 1: El Recodo- Camino a Santa Juana / 
 Zona 2: El Venado /
