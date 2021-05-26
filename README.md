@@ -32,17 +32,17 @@ Aguas servidas (domiciliaria), 2 L de agua compuesta (5 L), según protocolo de 
 
 # Método Extracción
 
-Concentración por centrifugación, TRIzol (Thermofisher) y purificación (columnas-EZNA)
+Concentración por centrifugación, TRIzol (Thermofisher) y purificación (columnas-EZNA).
 
 # Método Detección
 
-Real-time Fluorescent RT-PCR kit for 2019nCoV (BGI) / LightCycler 480 (ROCHE)
+Real-time Fluorescent RT-PCR kit for 2019nCoV (BGI) / LightCycler 480 (ROCHE).
 
 # Procesamiento de las muestras y creación del semáforo
 
-Laboratorio de Investigación en Ciencias Biomédicas, Universidad Católica de la Santísima Concepción
+Laboratorio de Investigación en Ciencias Biomédicas, Universidad Católica de la Santísima Concepción.
 
-Núcleo Milenio Centro para el Descubrimieto de Estructuras en Datos Complejos - MiDaS
+Núcleo Milenio Centro para el Descubrimieto de Estructuras en Datos Complejos - MiDaS.
 
 # Actualización
 
