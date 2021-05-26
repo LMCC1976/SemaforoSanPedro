@@ -24,7 +24,7 @@ Zona 11: Michaihue /
 Zona 12a: Lomas Coloradas /
 Zona 12b: La Estrella /
 Zona 12c: Boca Sur 2 /
-Zona 12d: Candelaria 1
+Zona 12d: Candelaria 1.
 
 # Tipo de muestra
 
