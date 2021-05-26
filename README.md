@@ -8,7 +8,23 @@ Los colores son: 1 - Verde (Prevencion) / 2 - Amarillo (Precaución) / 3 - Naran
 
 # Zonas del semáforo
 
-Las zonas se pueden visualizar en https://edovtp.shinyapps.io/semaforo-San-Pedro/
+Las zonas se pueden visualizar en https://edovtp.shinyapps.io/semaforo-San-Pedro/ . Estas corresponden a:
+
+Zona 1: El Recodo- Camino a Santa Juana
+Zona 2: El Venado
+Zona 3: Andalue - Los Canelos
+Zona 4: Villa San Pedro - Bayona
+zona 5: Huertos Familiares 
+Zona 6: Candelaria 2
+Zona 7: Candelaria 3
+Zona 8: Boca Sur 1
+Zona 9: Boca Sur 3
+Zona 10: San Pedro de la Costa
+Zona 11: Michaihue
+Zona 12a: Lomas Coloradas
+Zona 12b: La Estrella 
+Zona 12c: Boca Sur 2
+Zona 12d: Candelaria 1
 
 # Tipo de muestra
 
