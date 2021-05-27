@@ -8,7 +8,7 @@ Los colores son: 1 - Verde (Prevencion) / 2 - Amarillo (Precaución) / 3 - Naran
 
 # Zonas del semáforo
 
-Las zonas se pueden visualizar en https://edovtp.shinyapps.io/semaforo-San-Pedro/. Estas corresponden a:
+Las zonas se pueden visualizar en https://midas-uc.shinyapps.io/semaforo-San-Pedro/. Estas corresponden a:
 
 Zona 1: El Recodo- Camino a Santa Juana / 
 Zona 2: El Venado /
@@ -26,24 +26,19 @@ Zona 12b: La Estrella /
 Zona 12c: Boca Sur 2 /
 Zona 12d: Candelaria 1.
 
-# Tipo de muestra
+# Columnas y valores
 
-Aguas servidas (domiciliaria), 2 L de agua compuesta (5 L), según protocolo de Biodiversa S.A.
+El archivo alertas_por_zona.csv contiene las columas 'Fecha', 'Zona2', 'Zona3', 'Zona4', 'Zona5', 'Zona6', 'Zona7', 'Zona8', 'Zona9', 'Zona10', 'Zona11', 'Zona12a', 'Zona12b', 'Zona12c' y 'Zona12d'. Estos valores están separados entre sí por comas (csv). Los valores corresponden al color del semáforo.
 
-# Método Extracción
+# Información sobre el proceso de detección de carga viral 
 
-Concentración por centrifugación, TRIzol (Thermofisher) y purificación (columnas-EZNA).
+El tipo de muestra corresponde a aguas servidas (domiciliaria), 2 L de agua compuesta (5 L), según protocolo de Biodiversa S.A. La extracción se realizó vía concentración por centrifugación, TRIzol (Thermofisher) y purificación (columnas-EZNA). El método de detección utilizado es Real-time Fluorescent RT-PCR kit for 2019nCoV (BGI) / LightCycler 480 (ROCHE).
 
-# Método Detección
-
-Real-time Fluorescent RT-PCR kit for 2019nCoV (BGI) / LightCycler 480 (ROCHE).
-
-# Procesamiento de las muestras y creación del semáforo
-
-Laboratorio de Investigación en Ciencias Biomédicas, Universidad Católica de la Santísima Concepción.
-
-Núcleo Milenio Centro para el Descubrimieto de Estructuras en Datos Complejos - MiDaS.
-
-# Actualización
+# Frecuencia de actualización
 
 1 vez por semana (cada viernes).
+
+# Elaboración
+
+El semáforo Poop COVID-19 es una iniciativa de la Seremi de Ciencias de la Macrozona Centro Sur, Paulina Assmann con la participación de los siguientes miembros del Núcleo Milenio Centro para el Descubrimieto de Estructuras en Datos Complejos - MiDaS, Alejandro Jara, Isabelle Beaudry, José Verschae y Mauricio Castro, académicos de la Pontificia Universidad Católica de Chile y los estudiantes, también de la Pontificia Universidad Católica de Chile, Felipe Gutierrez, José Baboun, Benjamín Rubio y Eduardo Vásquez, responsable de la visualización del semáforo. Los académicos Matías Hepp y Andressa Reis pertenecientes al Laboratorio de Investigación en Ciencias Biomédicas, Universidad Católica de la Santísima Concepción son quienes procesan las muestras de agua.
+
